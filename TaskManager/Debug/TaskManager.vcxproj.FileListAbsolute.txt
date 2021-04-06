@@ -1,0 +1,6 @@
+A:\Projects\TaskManager\TaskManager\Debug\TaskManager.exe
+A:\Projects\TaskManager\TaskManager\Debug\TaskManager.pdb
+C:\Users\User\Documents\GitHub\Task-Manager-VS\TaskManager\Debug\TaskManager.exe
+C:\Users\User\Documents\GitHub\Task-Manager-VS\TaskManager\Debug\TaskManager.pdb
+C:\Users\User\Documents\TaskManager\Debug\TaskManager.exe
+C:\Users\User\Documents\TaskManager\Debug\TaskManager.pdb
