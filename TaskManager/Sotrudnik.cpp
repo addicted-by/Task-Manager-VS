@@ -8,7 +8,6 @@ Sotrudnik::Sotrudnik(vector<double> abilities, int norm, int busy, bool entry, s
     this->name = name;
     this->surname = surname;
     this->id = NULL;
-    this->pizdec = this->norm * 10;
 }
 Sotrudnik::Sotrudnik(int id, vector<double> abilities, int norm, int busy, bool entry) {
     this->abilities = abilities;
@@ -18,7 +17,6 @@ Sotrudnik::Sotrudnik(int id, vector<double> abilities, int norm, int busy, bool 
     this->name = " ";
     this->surname = " ";
     this->id = id;
-    this->pizdec = 1;
 }
 double Sotrudnik::coefficient() {
     /*if (this->busy >= this->norm)

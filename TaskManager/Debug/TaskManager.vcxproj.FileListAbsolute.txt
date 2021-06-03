@@ -4,3 +4,7 @@ C:\Users\User\Documents\GitHub\Task-Manager-VS\TaskManager\Debug\TaskManager.exe
 C:\Users\User\Documents\GitHub\Task-Manager-VS\TaskManager\Debug\TaskManager.pdb
 C:\Users\User\Documents\TaskManager\Debug\TaskManager.exe
 C:\Users\User\Documents\TaskManager\Debug\TaskManager.pdb
+A:\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\Debug\TaskManager.exe
+A:\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\Debug\TaskManager.pdb
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\Debug\TaskManager.exe
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\Debug\TaskManager.pdb

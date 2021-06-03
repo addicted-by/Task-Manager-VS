@@ -1,27 +1,31 @@
 ﻿  TaskManager.cpp
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(119,50): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(121,50): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
           with
           [
               _Ty=double
           ]
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(120,58): warning C4244: аргумент: преобразование "_Ty" в "const int", возможна потеря данных
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(122,58): warning C4244: аргумент: преобразование "_Ty" в "const int", возможна потеря данных
           with
           [
               _Ty=double
           ]
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(160,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(193,31): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(158,13): warning C4101: tmp: неиспользованная локальная переменная
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(224,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(241,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(270,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(271,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(413,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(452,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(474,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(475,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\TaskManager\TaskManager.cpp(418,9): warning C4101: a: неиспользованная локальная переменная
-  TaskManager.vcxproj -> C:\Users\User\Documents\TaskManager\Debug\TaskManager.exe
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(135,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(154,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(170,31): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(153,13): warning C4101: tmp: неиспользованная локальная переменная
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(184,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(229,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(230,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(289,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(296,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(343,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(347,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(418,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(425,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(427,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(431,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\TaskManager.cpp(422,9): warning C4101: a: неиспользованная локальная переменная
+  TaskManager.vcxproj -> A:\Projects\Task-Manager-VS-main\Task-Manager-VS-main\TaskManager\Debug\TaskManager.exe
